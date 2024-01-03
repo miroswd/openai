@@ -1,6 +1,6 @@
 # OpenAI
 > Create an assistant using GPT-4
 
-## Study case
+## Study topics
 - Create the assistant
 - Create thread
